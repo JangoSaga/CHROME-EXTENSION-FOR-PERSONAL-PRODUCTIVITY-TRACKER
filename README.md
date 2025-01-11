@@ -73,9 +73,12 @@ Follow these steps to install and run Focus Work locally:
 ---
 
 ## Usage
-
-Once the development server is running, open your browser and go to `http://localhost:5174`. You can start managing your tasks, setting distraction timers, and blocking websites as needed.
-
+1. Open up the browser and go the manage extensions.
+2. Load the dist folder of extension using
+```bash
+npm run build
+```
+3. Now refresh the browser and see the extension working in the extensions tab.
 ---
 
 ## Screenshots
