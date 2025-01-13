@@ -19,7 +19,7 @@ const StyledHeader = styled.header`
 const Header = () => {
   return (
     <StyledHeader>
-      <h1>👾Deep Work</h1>
+      <h1>👾Focus Work</h1>
     </StyledHeader>
   );
 };
