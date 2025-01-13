@@ -1,5 +1,12 @@
-# Focus Work
+# CHROME EXTENSION FOR PERSONAL PRODUCTIVITY TRACKER
 
+### **Company:** Codetech IT Solutions  
+### **Intern Name:** Karan Vishwakarma  
+### **Intern ID:** CT08HUE  
+### **Domain:** React.js Web Development  
+### **Mentor:** Sravani  
+### **Batch Duration:** December 30, 2024 - January 30, 2025  
+## **Project Description:**  
 A productivity tool to help you stay focused and manage your work efficiently.
 
 ![Languages](https://img.shields.io/badge/JavaScript-98.1%25-yellow?logo=javascript)
@@ -21,7 +28,7 @@ A productivity tool to help you stay focused and manage your work efficiently.
 
 ## Introduction
 
-Focus Work is a productivity tool designed to help you stay focused on your tasks and manage your work efficiently. Whether you're working on a personal project or managing a team, Focus Work provides the tools you need to stay organized and productive.
+**CHROME EXTENSION FOR PERSONAL PRODUCTIVITY TRACKER** is a productivity tool designed to help you stay focused on your tasks and manage your work efficiently. Whether you're working on a personal project or managing a team, Focus Work provides the tools you need to stay organized and productive.
 
 ---
 
@@ -90,7 +97,4 @@ Below are screenshots showcasing key features of Focus Work:
     <img src="https://github.com/user-attachments/assets/ac2dd3b5-e06d-4507-b507-05e7fe8694fc" alt="Screenshot 2" width="45%">
 </div>
 
----
-
-Thank you for using Focus Work! Feel free to share feedback to improve the tool further.
-
+    
