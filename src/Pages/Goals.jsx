@@ -72,7 +72,6 @@ const EmptyState = styled.p`
   font-size: 0.875rem;
 `;
 
-// ... rest of the Goals component logic remains the same ...
 
 const Goals = () => {
   const [distractedSites, setDistractedSites] = useState([]);
