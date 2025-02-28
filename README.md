@@ -43,7 +43,7 @@ A productivity tool to help you stay focused and manage your work efficiently.
 ## Technologies Used
 
 Focus Work is built using the following technologies:
-
+- **Chrome API** : For tracking the browser activity.
 - **JavaScript** (98.1%): Core logic and functionality.
 - **HTML** (1.7%): Structuring the user interface.
 - **CSS** (0.2%): Styling and layout.
