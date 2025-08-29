@@ -1,4 +1,4 @@
-# SORT-SITE Chrome Extension 
+# Sort-Site Chrome Extension 
 
 ## **Project Description:**  
 A productivity tool to help you stay focused and manage your work efficiently.
